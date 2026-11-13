@@ -1,0 +1,2 @@
+# Optional local screenshot tooling (not needed to run the dashboard)
+playwright>=1.65,<2

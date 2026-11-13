@@ -1,0 +1,15 @@
+﻿product_id,product_name,category,category_id,unit_price,unit_cost
+LAP-14,Laptop Pro 14,Ordinateurs,CAT01,3200000,2350000
+LAP-15,Laptop Essentiel 15,Ordinateurs,CAT01,2450000,1800000
+PHN-A1,Smartphone A1,Smartphones,CAT02,1150000,790000
+PHN-P2,Smartphone P2,Smartphones,CAT02,1850000,1320000
+PRN-E1,Imprimante Eco E1,Impression,CAT03,780000,525000
+PRN-L2,Imprimante Laser L2,Impression,CAT03,1450000,1030000
+ACC-M1,Souris sans fil,Accessoires,CAT04,95000,42000
+ACC-K2,Clavier USB,Accessoires,CAT04,125000,58000
+ACC-H3,Casque audio,Accessoires,CAT04,210000,112000
+NET-R1,Routeur Wi-Fi,Réseau,CAT05,390000,245000
+NET-S2,Switch 8 ports,Réseau,CAT05,520000,348000
+STO-1T,Disque externe 1 To,Stockage,CAT06,310000,198000
+STO-SSD,SSD 512 Go,Stockage,CAT06,360000,222000
+LAP-GM,Laptop Graphique,Ordinateurs,CAT01,4850000,3650000
